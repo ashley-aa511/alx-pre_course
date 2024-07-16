@@ -1,2 +1,6 @@
 # My first readme
-I Created new directories and files 
+Created new directory called 0x03-git
+## More directories under 0x03-git
+1. Bash
+2. c
+3. js
