@@ -1,2 +1,2 @@
-My first readme
-Created new directories and files 
+# My first readme
+I Created new directories and files 
